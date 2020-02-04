@@ -1,0 +1,68 @@
+<center> <h1>Арматура, коротыш </h1></central>
+  
+       <table border="1">
+   <caption>
+Арматура 8, L=1,5-4 м
+</caption>
+   <tr>
+    <th>Класс</th>
+    <th>D, мм</th>
+    <th>L, м</th>
+    <th>Теор. масса, кг/м</th>
+   </tr>
+   <tr><td>А500С   </td><td>8     </td><td>1-4     </td><td>0,395        </td></tr>
+   
+  </table>
+
+       <table border="1">
+   <caption>
+Арматура 10, L=1,5-3 м
+</caption>
+   <tr>
+    <th>Класс</th>
+    <th>D, мм</th>
+    <th>L, м</th>
+    <th>Теор. масса, кг/м</th>
+   </tr>
+   <tr><td>А500С   </td><td>10     </td><td>1-3      </td><td>0,617        </td></tr>
+   
+  </table>
+<table border="1">
+   <caption>
+	
+Арматура 12-32,  А500, L= 6, 12 м
+
+</caption>
+   <tr>
+    <th>Класс</th>
+    <th>D, мм</th>
+    <th>L, м</th>
+    <th>Теор. масса, кг/м</th>
+   </tr>
+   <tr><td>А500С   </td><td>12     </td><td>12     </td><td>1-3        </td></tr>
+   <tr><td>А500С   </td><td>14     </td><td>12     </td><td>1-3        </td></tr>
+   <tr><td>А500С   </td><td>16     </td><td>12     </td><td>1-3        </td></tr>
+   <tr><td>А500С   </td><td>16     </td><td>12     </td><td>1-3        </td></tr>
+   <tr><td>А500С   </td><td>18     </td><td>12     </td><td>1-3        </td></tr>
+   <tr><td>А500С   </td><td>20     </td><td>12     </td><td>1-3        </td></tr>
+   <tr><td>А500С   </td><td>22     </td><td>12     </td><td>1-3        </td></tr>
+   <tr><td>А500С   </td><td>25     </td><td>12     </td><td>1-3        </td></tr>
+   <tr><td>А500С   </td><td>28     </td><td>12     </td><td>1-3        </td></tr>
+   <tr><td>А500С   </td><td>32     </td><td>12     </td><td>1-3        </td></tr>
+   
+  </table>
+<p><font color="black"
+         size="4" align="center">
+              
+<center><p>
+</p>
+
+</central>
+
+              
+    </font color="grey"
+            size= "5">
+    </p></center>
+
+         <p><
+      </body>
