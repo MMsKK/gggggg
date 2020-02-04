@@ -1,0 +1,64 @@
+<center>  
+<input type="button" value="главная" onClick='location.href="hhh.html"'>
+<input type="button" value="каталог" onClick='location.href="1.html"'>
+<input type="button" value="контакты" onClick='location.href="12.html"'> 
+<input type="button" value=" католог2" onClick='location.href="13.html"'>   
+         
+</form>
+ 
+           </p> </button></form>
+
+
+           </p> </button></center>
+<center> <h1>Арматура , Мера </h1></central>
+ 
+<table border="1">
+   <caption>
+Арматура 8, А500, L= 6, 12 м
+</caption>
+   <tr>
+    <th>Класс</th>
+    <th>D, мм</th>
+    <th>L, м</th>
+    <th>Теор. масса, кг/м</th>
+   </tr>
+   <tr><td>А500С   </td><td>8     </td><td>12     </td><td>0,395        </td></tr>
+   
+  </table>
+<table border="1">
+   <caption>
+Арматура 10,  А500, L= 6, 12 м
+</caption>
+   <tr>
+    <th>Класс</th>
+    <th>D, мм</th>
+    <th>L, м</th>
+    <th>Теор. масса, кг/м</th>
+   </tr>
+   <tr><td>А500С   </td><td>10     </td><td>12     </td><td>0,617        </td></tr>
+   
+  </table>
+<table border="1">
+   <caption>
+	
+Арматура 12-32,  А500, L= 6, 12 м
+
+</caption>
+   <tr>
+    <th>Класс</th>
+    <th>D, мм</th>
+    <th>L, м</th>
+    <th>Теор. масса, кг/м</th>
+   </tr>
+   <tr><td>А500С   </td><td>12     </td><td>12     </td><td>0,888       </td></tr>
+   <tr><td>А500С   </td><td>14     </td><td>12     </td><td>1,21        </td></tr>
+   <tr><td>А500С   </td><td>16     </td><td>12     </td><td>1,58        </td></tr>
+   <tr><td>А500С   </td><td>16     </td><td>12     </td><td>1,58        </td></tr>
+   <tr><td>А500С   </td><td>18     </td><td>12     </td><td>2           </td></tr>
+   <tr><td>А500С   </td><td>20     </td><td>12     </td><td>2,47        </td></tr>
+   <tr><td>А500С   </td><td>22     </td><td>12     </td><td>2,98        </td></tr>
+   <tr><td>А500С   </td><td>25     </td><td>12     </td><td>3,85        </td></tr>
+   <tr><td>А500С   </td><td>28     </td><td>12     </td><td>4,83        </td></tr>
+   <tr><td>А500С   </td><td>32     </td><td>12     </td><td>6,31        </td></tr>
+   
+  </table>
