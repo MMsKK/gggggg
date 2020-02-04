@@ -1,0 +1,37 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" 
+
+"http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE html>
+<html>
+ <head>
+  
+  <title>сталь-3</title> 
+ </head>
+   <body background ="сталь.jpg"> 
+<form>
+<center>  
+<input type="button" value="главная" onClick='location.href="hhh.html"'>
+<input type="button" value="каталог" onClick='location.href="11.html"'>
+<input type="button" value="контакты" 
+
+onClick='location.href="12.html"'> 
+<input type="button" value=" католог2" 
+
+onClick='location.href="13.html"'>   
+</form>
+</central>
+<br><br><br><br><br><br><br><br><br>
+ <p > <h1 align="center">За информацией обращайтесь по номеру и 
+
+почте:<br>
+              +380684336767<br>
+              stal-3-@gmail.com<br>
+</p>
+
+
+
+</central>
+
+
+         
+      </body>
